@@ -1,3 +1,3 @@
 Мой первый проект на Хекслете
 
-step5.gif
+[![asciicast](https://asciinema.org/a/NPgnwwhEfziidVOwtLBXjpKMw.svg)](https://asciinema.org/a/NPgnwwhEfziidVOwtLBXjpKMw)
